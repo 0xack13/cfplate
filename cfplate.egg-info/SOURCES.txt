@@ -1,0 +1,11 @@
+README.md
+setup.py
+bin/cfplate
+cfplate/__init__.py
+cfplate/__main__.py
+cfplate/cfplate.py
+cfplate/template.py
+cfplate.egg-info/PKG-INFO
+cfplate.egg-info/SOURCES.txt
+cfplate.egg-info/dependency_links.txt
+cfplate.egg-info/top_level.txt

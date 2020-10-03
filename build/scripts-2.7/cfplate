@@ -1,0 +1,12 @@
+#!/home/x0z/src/py-dev/cfplate/venv/bin/python
+
+import os
+import sys
+from cfplate.cfplate import main
+
+def cfmain():
+    return main()
+
+
+if __name__ == '__main__':
+    sys.exit(cfmain())
